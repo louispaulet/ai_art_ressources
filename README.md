@@ -21,3 +21,7 @@ Inputs a list of files and apply SuperRes ESRGAN from downloaded models. Outputs
 ### Batch Mode
 
 Same SuperRes notebook but can take a dir batch as an input and output a dir batch. 
+
+## Disco Diffusion 5.4
+
+Light modifications from the original notebook to allow a list of init images as input. 
