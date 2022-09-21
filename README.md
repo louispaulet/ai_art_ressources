@@ -25,3 +25,7 @@ Same SuperRes notebook but can take a dir batch as an input and output a dir bat
 ## Disco Diffusion 5.4
 
 Light modifications from the original notebook to allow a list of init images as input. 
+
+## Latent Diffusion LAION-400M
+
+To generate the init images used in Disco Diffusion. 
