@@ -1,6 +1,6 @@
 # AI Art Ressources
 
-Stable diffusion and latent diffusion notebooks. Text2img, img2img, etc... 
+Stable diffusion and latent diffusion notebooks. Text2img, img2img, etc...  
 :warning: Use at your own risk, this is only a public backup of my experiments.  :warning:
 
 # Notebooks
