@@ -12,6 +12,11 @@ It can generate prompts using Vit-L14 and approximate a stable_diffusion prompt 
 
 Notebook to run stable diffusion on a prompt list and save to gDrive. 
 
+## DREAMBOOTH  
+
+Notebooks for training and inference on Stable Diffusion 1.4.  
+Train a model checkpoint with custom (12-20 images) dataset to create new tokens (`sks man`).  
+
 ### text2image
 
 The most vanilla version provided is: 
