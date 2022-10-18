@@ -5,8 +5,13 @@ Stable diffusion and latent diffusion notebooks. Text2img, img2img, etc...
 
 # Notebooks
 
+## Clip interrogation
+
 `Loulou_version_BatchMode_clip_interrogator.ipynb` is a image2text notebook that will return a caption for a given image.  
 It can generate prompts using Vit-L14 and approximate a stable_diffusion prompt by brute-forcing on prompt modifier lists (list of styles, artists, mediums, etc..). 
+
+`Get_best_matching_male_actor_face_for_a_given_input_picture.ipynb` will find the best match between the picture of a male face and a list of male actors from the 20th century (9k+ names).  
+It uses CLIP to find the best matching prompt for a given image out of a list. We use fragmentation in small batches to get high confidence scores.  
 
 ## Stable Diffusion
 
