@@ -29,6 +29,9 @@ Both these notebooks use the diffusers library to perform Textual Inversion:
 The following notebook performs fine-tuning on stable-diffusion:  
 `Loulou_version_Vast_ai_dreambooth_runpod_joepenna.ipynb` needs 24go VRAM => Run on Vast.ai  
 
+Use this notebook to perform inference from a GDrive checkpoint:  
+`MVP_Inference_from_Dreambooth_finetuned_model.ipynb`  
+
 ### text2image
 
 The most vanilla version provided is: 
