@@ -15,7 +15,27 @@ It uses CLIP to find the best matching prompt for a given image out of a list. W
 
 ## Stable Diffusion
 
-Notebook to run stable diffusion on a prompt list and save to gDrive. 
+Notebook to run stable diffusion on a prompt list and save to gDrive.
+
+## Large_resolution_tests
+
+Contains notebooks that deal with output resolutions higher than 512x512.  
+Two techniques:  
+1- superscale image then split and assemble paintings for a pixel art look
+2- same but stitch the images by fusing the edges for a singular image look 
+
+Method 1 can be accomplished by using the notebook `Loulou_version_2_BatchMode_image_2_image_using_diffusers.ipynb` by supplying a list of images.  
+The image list should be all the squares resulting from a large image cut into a grid (done manually in photoshop).  
+
+Method 2 should be soon availiable via either GoBig or Embiggen.  
+
+### GoBig_stable_diffusion
+
+`loulou_version_of_jquesnelle_txt2imghd` is the first try at running txt2imghd in AWS sagemake studio lab.  
+
+### InvokeAI_Embiggen 
+
+???
 
 ## DREAMBOOTH  
 
