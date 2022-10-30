@@ -31,7 +31,9 @@ Method 2 should be soon availiable via either GoBig or Embiggen.
 
 ### GoBig_stable_diffusion
 
-`loulou_version_of_jquesnelle_txt2imghd` is the first try at running txt2imghd in AWS sagemake studio lab.  
+`loulou_version_of_jquesnelle_txt2imghd` is the first try at running txt2imghd in AWS sagemake studio lab. 
+
+`GOBIG_TEST_1_Prog_Rock_Stable.ipynb` is a colab version of Prog Rock Stable  
 
 ### InvokeAI_Embiggen 
 
