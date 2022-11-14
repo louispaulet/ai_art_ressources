@@ -13,6 +13,9 @@ It can generate prompts using Vit-L14 and approximate a stable_diffusion prompt 
 `Get_best_matching_male_actor_face_for_a_given_input_picture.ipynb` will find the best match between the picture of a male face and a list of male actors from the 20th century (9k+ names).  
 It uses CLIP to find the best matching prompt for a given image out of a list. We use fragmentation in small batches to get high confidence scores.  
 
+`separate_framed_and_unframed_paintings_using_CLIP.ipynb` will sort paintings into "framed" and "unframed" folders.  
+Useful to sort a large quantity of paintings generated using the `oil on canvas` or `oil on wood` tokens.  
+
 ## Stable Diffusion
 
 Notebook to run stable diffusion on a prompt list and save to gDrive.
