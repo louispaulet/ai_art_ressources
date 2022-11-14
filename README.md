@@ -16,6 +16,9 @@ It uses CLIP to find the best matching prompt for a given image out of a list. W
 `separate_framed_and_unframed_paintings_using_CLIP.ipynb` will sort paintings into "framed" and "unframed" folders.  
 Useful to sort a large quantity of paintings generated using the `oil on canvas` or `oil on wood` tokens.  
 
+The dataset is located here:  
+https://github.com/louispaulet/sort_framed_and_unframed_paintings  
+
 ## Stable Diffusion
 
 Notebook to run stable diffusion on a prompt list and save to gDrive.
